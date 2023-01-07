@@ -1,1 +1,1 @@
-:pencil: Learning_React :pencil:
+:pencil: React :pencil:

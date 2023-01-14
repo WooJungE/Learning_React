@@ -1,3 +1,5 @@
+//ES6 문자열 사용 방법
+
 var string1= '안녕하세요';
 var string2= '반갑습니다';
 var greeting = `${string1} ${string2}`;

@@ -1,3 +1,5 @@
+//ES6 배열 전개 연산자 사용
+
 var array1 = ['one', 'two'];
 var array2 = ['three', 'four'];
 

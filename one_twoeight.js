@@ -15,6 +15,8 @@ var add = function(first, second){
 //typeof로 add와 'function'이라는 문자열을 비교해 보면 ture가 나옴
 //첫 번째 방식은 함수 이름 있지만 두 번째는 없음
 
+
+
 //크롬 브라우저 콘솔창에 add를 입력하고 enter를 누르면
 /*
 > function add(first, second) {

@@ -1,2 +1,1 @@
-
-:pencil: React :pencil:
+React

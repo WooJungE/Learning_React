@@ -12,3 +12,5 @@ function parse(qs) {
   }
   return result;
 }
+
+// ES6의 forEach() 함수를 사용하면 반복문의 순번(i++)과 배열의 크기(chunks.length)를 따로 변수에 저장하는 과정을 생략할 수 있음
